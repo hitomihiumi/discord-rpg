@@ -1,0 +1,27 @@
+{
+  "name": "discord-rpg",
+  "version": "0.5.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "directories": {
+    "doc": "docs",
+    "test": "test",
+    "lib": "src"
+  },
+  "scripts": {
+    "test": "node --trace-warnings ./test/test.js"
+  },
+  "keywords": [
+    "rpg",
+    "role-play-game",
+    "discord",
+    "discord.js"
+  ],
+  "author": "hitomihiumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hitomihiumi/lazy-canvas-ts/issues"
+  },
+  "homepage": "https://github.com/hitomihiumi/lazy-canvas-ts#readme"
+}
